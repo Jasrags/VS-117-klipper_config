@@ -1,1 +1,5 @@
 printer-*_*.cfg
+saved_variables.cfg
+macros/common
+configs/common
+scripts/common
